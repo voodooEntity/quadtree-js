@@ -1,21 +1,12 @@
 
-<p align="center">
-    <img src=".github/logo.png" alt="logo">
-</p>
-
 
 <p align="center">
-    <a href="https://www.npmjs.com/package/js-quadtree"><img src="https://img.shields.io/npm/dw/js-quadtree.svg" alt="Weekly Downloads" /></a>
-    <a href="https://github.com/CorentinTh/quadtree-js/actions?query=workflow%3A%22Node+CI%22"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/CorentinTh/quadtree-js/Node CI"></a>
-    <a href='https://codecov.io/gh/CorentinTh/quadtree-js'><img src='https://codecov.io/gh/CorentinTh/quadtree-js/branch/master/graph/badge.svg' alt='Coverage Status' /></a>
-    <a href="https://www.npmjs.com/package/js-quadtree"><img src="https://img.shields.io/bundlephobia/minzip/js-quadtree.svg" alt="npm bundle size" /></a>
-    <a href="https://www.npmjs.com/package/js-quadtree"><img src="https://img.shields.io/github/package-json/v/CorentinTh/quadtree-js.svg" alt="GitHub package.json version" /></a>
     <a href='LICENCE'><img src="https://img.shields.io/github/license/CorentinTh/quadtree-js.svg" alt="Licence Badge" /></a>
 </p>
 
 
 
-A powerful quadtree implementation in javascript. It can be used for nodejs or directly in the browser.
+Modified version of<a href="https://github.com/CorentinTh/quadtree-js" target="_blank"> quadtree-js</a>. 
 
 ## Installation
 ### Node JS
