@@ -206,12 +206,6 @@ Use this method to clear the quadtree. It remove all the points and sub-nodes.
 quadtree.clear();
 ```
 
-## Contribute
-**Pull requests are welcome !** Feel free to contribute.
-
-## Credits
-Coded with ❤️ by [Corentin Thomasset](//corentin-thomasset.fr).
-
 ## License
 
 This project is under the [MIT license](LICENSE).
