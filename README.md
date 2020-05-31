@@ -8,17 +8,10 @@
 
 Modified version of<a href="https://github.com/CorentinTh/quadtree-js" target="_blank"> quadtree-js</a>. 
 
-## Installation
-### Node JS
-**Quadtree-js** can be installed using yarn or npm.
+Readme outdated - update needed. Fork for specific use case.
 
-```bash
-npm install js-quadtree
-# or
-yarn add js-quadtree
-```
 
-And import :
+Import :
 
 ```javascript
 // EMAScript import
